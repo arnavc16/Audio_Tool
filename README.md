@@ -1,5 +1,3 @@
-# Audio_Tool
-
 # ML-based Audio Analysis Tool
 
 ## Project Overview
