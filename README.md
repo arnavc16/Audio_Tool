@@ -8,7 +8,6 @@ This tool is an ML-based audio analysis system designed for speaker clustering a
 ## Features
 - **Audio Preprocessing:** Noise reduction, filtering, and normalization.
 - **Speaker Diarization:** Identification of individual speakers in an audio file.
-- **Speaker Clustering:** Grouping similar discussions from different speakers.
 
 ## Installation
 
