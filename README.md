@@ -37,5 +37,5 @@ python app.py
 - View the original and processed audio.
 - Check the speaker diarization results.
 
-Contributing
+### Contributing
 Contributions, bug reports, and feature requests are welcome. Please follow the standard GitHub pull request process to propose changes.
